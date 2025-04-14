@@ -1,0 +1,60 @@
+/* :root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+} 
+
+body {  
+  background: linear-gradient(180deg, rgba(135, 255, 128, .11) .05%, rgba(34, 211, 119, .11) 100.04%), url("https://www.onstro.com/wp-content/uploads/2024/07/Helpdesk-dots-and-petals.svg");
+}
+*/
+html, body {
+  margin: 0;
+  min-height: 100%;
+}
+
+body {
+  font-family: var(--font-poppins), sans-serif;
+  color: "#021F65"
+}
+
+.ant-table, .ant-table-cell, .ant-btn, .ant-modal, .ant-typography {
+  font-family: "Poppins", sans-serif !important;
+}
