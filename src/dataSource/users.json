@@ -1,0 +1,56 @@
+[
+    {
+        "key": 1,
+        "name": "Jonathan Joestar",
+        "email": "jojo1@speedwagonfoundation.com",
+        "phone": 1204041868,
+        "archived": false,
+        "deleted": false,
+        "blocked": false
+    },
+    {
+        "key": 2,
+        "name": "Joseph Joestar",
+        "email": "jojo2@speedwagonfoundation.com",
+        "phone": 1227091920,
+        "archived": false,
+        "deleted": false,
+        "blocked": false
+    },
+    {
+        "key": 3,
+        "name": "Jotaro Kujo",
+        "email": "jojo3@speedwagonfoundation.com",
+        "phone": 1203021971,
+        "archived": false,
+        "deleted": false,
+        "blocked": false
+    },
+    {
+        "key": 4,
+        "name": "Josuke Higashikata",
+        "email": "jojo4@moriohmails.com",
+        "phone": 1220061983,
+        "archived": false,
+        "deleted": false,
+        "blocked": false
+    },
+    {
+        "key": 5,
+        "name": "Giorno Giovanna",
+        "email": "jojo5@passione.com",
+        "phone": 1216041985,
+        "archived": false,
+        "deleted": false,
+        "blocked": false
+    },
+    {
+        "key": 6,
+        "name": "Jolyne Cujoh",
+        "email": "jojo6@speedwagonfoundation.com",
+        "phone": 1209021992,
+        "archived": false,
+        "deleted": false,
+        "blocked": false
+    }
+]

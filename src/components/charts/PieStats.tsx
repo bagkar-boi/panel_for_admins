@@ -39,11 +39,7 @@ const PieStats = React.memo(() => {
                             label={({ name, percent }) =>
                                 `${name}: ${(percent * 100).toFixed(0)}%`
                             }
-<<<<<<< HEAD
-                            isAnimationActive={false}
-=======
                             isAnimationActive={true}
->>>>>>> 2e00c26 (hw)
                         >
                             {data.map((entry, index) => (
                                 <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
